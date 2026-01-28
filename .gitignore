@@ -49,5 +49,8 @@ Thumbs.db
 *.csv
 data/
 
+# Deployment artifacts
+deploy.zip
+
 # Logs
 *.log
