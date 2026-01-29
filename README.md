@@ -1,4 +1,4 @@
-# 🇪🇺 Global VAT Compliance Monitor
+# 🌍Global VAT Compliance Monitor
 
 A regulatory compliance dashboard designed to monitor EU Value Added Tax (VAT) thresholds in real-time. It distinguishes between B2C distance selling rules and B2B reverse charge mechanisms to flag registration risks.
 
