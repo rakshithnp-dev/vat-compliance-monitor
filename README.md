@@ -11,7 +11,7 @@ A regulatory compliance dashboard designed to monitor EU Value Added Tax (VAT) t
 
 ### 🚀 Live Demo
 
-🔗 **Deployed on Azure:** vat-monitor-app-hscga8hjb6bxfhd0.centralindia-01.azurewebsites.net
+🔗 **Deployed on Azure:** https://vat-monitor-app-hscga8hjb6bxfhd0.centralindia-01.azurewebsites.net/
 
 ### 📋 Prerequisites
 
